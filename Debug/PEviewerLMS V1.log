@@ -1,0 +1,12 @@
+﻿  HashRead.cpp
+  main.cpp
+C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(120): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(120): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 2개가 제공되었습니다.
+C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(163): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(175): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(237): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\PEviewerLMS V1\main.cpp(324): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  PEviewerLMS V1.vcxproj -> C:\Users\anthd\Documents\2019\포트폴리오\공통 포트폴리오\PEviewerLMS V1\Debug\PEviewerLMS V1.exe
